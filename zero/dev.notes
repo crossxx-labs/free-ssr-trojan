@@ -1,0 +1,4 @@
+
+
+### Specify ssh key file to perform git actions
+GIT_SSH_COMMAND='ssh -i ~/.ssh/id_rsa.crossxx-labs -o IdentitiesOnly=yes' git push
