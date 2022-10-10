@@ -1,4 +1,10 @@
-# free-ssr-trojan
+# Language select
+
+- 🇨🇳 [简体中文](./README_cn.md)
+- 🇺🇸[English](./README.md)
+
+
+## free-ssr-trojan
 Provide free ShadowsocksR and Trojan software toolsets
 
 Currently we plan to provide a series of software tools of ShadowsocksR(SSR) and Trojan across platforms.
